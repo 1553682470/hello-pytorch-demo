@@ -1,5 +1,6 @@
 # hello_pytorch.py
 import torch
+import torchvision 
 import torchvision.transforms as T
 from PIL import Image
 import matplotlib.pyplot as plt
