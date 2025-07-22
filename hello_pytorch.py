@@ -24,3 +24,4 @@ plt.imshow(fake_img.squeeze().permute(1, 2, 0))
 plt.title("Fake Image")
 plt.savefig("result.png")
 print("已生成 result.png")
+Commit message：fix import
